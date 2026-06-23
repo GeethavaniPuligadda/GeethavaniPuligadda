@@ -16,9 +16,10 @@ I am a backend-focused software engineer with a B.Tech in Artificial Intelligenc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeethavaniPuligadda&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geetha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=GeethavaniPuligadda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Geetha&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=GeethavaniPuligadda&color=blueviolet)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
